@@ -1,0 +1,26 @@
+{
+  "name": "@salecycle/koa2-joi-validator",
+  "version": "1.0.0",
+  "description": "koa2 joi validation middleware",
+  "main": "index.js",
+  "repository": "https://github.com/SaleCycle/koa2-joi-validator.git",
+  "author": "Salecycle assets team <assetsteam@salecycle.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 0",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "@types/joi": "^13.0.2",
+    "@types/koa": "^2.0.42",
+    "@types/node": "^8.0.57",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-tslint": "^8.1.2",
+    "gulp-typescript": "^3.2.3",
+    "joi": "^13.0.2",
+    "koa": "^2.4.1",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.2"
+  }
+}
