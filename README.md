@@ -1,6 +1,8 @@
 # koa2-joi-validator
 joi validation middleware for koa2
 
+Owned by the the [assets team](https://salecycle.slack.com/messages/G870U5JBV)
+
 [Koa](koajs.com) middlevare for request validation using [Joi](https://github.com/hapijs/joi).
 
 Contains full typescript definitions
