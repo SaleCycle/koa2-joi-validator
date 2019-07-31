@@ -1,6 +1,6 @@
 {
   "name": "@salecycle/koa2-joi-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "koa2 joi validation middleware",
   "main": ".dist/validator.js",
   "repository": "https://github.com/SaleCycle/koa2-joi-validator.git",
